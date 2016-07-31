@@ -12,9 +12,9 @@
 
 看见过自己崩溃的时候，也看到过别人渴望的眼神，每个人都会告诉你他想变得更好，但现实是残酷的，并不是每个人都有机会变得更好，这其中会受很多因素的影响，而很多因素也不是你我自己能决定。
 
-  * 因为记不住事情，开始写[blog](http://www.cnblogs.com/zengjfgit/);  
-  * 因为记不住Code，于是开始用[github](https://github.com/AplexOS);  
-  * 因为有了Team，所以开始希望有一个[公用访问主页](http://www.aplexos.com);  
+  * 因为记不住事情，开始写[blog][blog];  
+  * 因为记不住Code，于是开始用[github][github];  
+  * 因为有了Team，所以开始希望有一个[公用访问主页][aplexos];  
   * 因为希望他们都能在将来过的更好，所以他们得变得特殊。
 
 很多时候，在我眼里，每个人都是特殊，但需要培养，有时候是用钱培养，有时候是用时间培养，有时候是用任务来培养，但无论如何，首先是要找到你要培养的人，大街上的人很多，但不是每个人都是你要培养的。很荣幸的在大街上选了几个人，然后我们开始合作，最后我们真的在一起合作了。
@@ -23,10 +23,10 @@
 
 ## 目录
 
-  * [好听点叫借鉴，中肯点叫参考，难听点叫抄袭 —— 书](referrence/index.md)
-  * [当兴趣变成了工作，那就不能仅仅动嘴 —— 工作](work/index.md)
-  * [世界很大，总会有绊脚石，不是你想走就能走滴 —— 生活](story/index.md)
-  * [工具是被人用的，当然不用也不会怀孕 —— 工具](tool/index.md)
+  * [好听点叫借鉴，中肯点叫参考，难听点叫抄袭 —— 参考][referrence]
+  * [当兴趣变成了工作，那就不能仅仅动嘴 —— 工作][work]
+  * [世界很大，总会有绊脚石，不是你想走就能走滴 —— 生活][story]
+  * [工具是被人用的，当然不用也不会怀孕 —— 工具][tool]
 
 [ [页 首] ][0] [ [前一个] ][1] [ [下一个] ][3] [ [页 尾] ][5]
 
@@ -74,3 +74,12 @@
 [3]: #user-content-仓库目录架构
 [4]: #user-content-作者信息
 [5]: #user-content-版权
+[blog]: http://www.cnblogs.com/zengjfgit/ 
+[github]: https://github.com/AplexOS
+[aplexos]: https://www.aplexos.com
+[referrence]: referrence/index.md
+[work]: work/index.md
+[story]: story/index.md
+[tool]: tool/index.md
+
+
