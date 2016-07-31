@@ -74,9 +74,11 @@
 [3]: #user-content-仓库目录架构
 [4]: #user-content-作者信息
 [5]: #user-content-版权
+
 [blog]: http://www.cnblogs.com/zengjfgit/ 
 [github]: https://github.com/AplexOS
 [aplexos]: https://www.aplexos.com
+
 [referrence]: referrence/index.md
 [work]: work/index.md
 [story]: story/index.md
