@@ -63,8 +63,7 @@
 
 ## 版权
 
-  * 本仓库所有内容解释权归曾剑锋所有；
-  * 本仓库所有内容未经允许，不能用于商业牟利，否则一概追究法律责任。
+  [ [Copyright] ][copyright]
 
 [ [页 首] ][0] [ [前一个] ][4] 
 
@@ -83,5 +82,6 @@
 [work]: work/index.md
 [story]: story/index.md
 [tool]: tool/index.md
+[copyright]: copyright.md
 
 
