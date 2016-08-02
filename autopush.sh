@@ -7,11 +7,7 @@ if [ $# -ne 1 ];then
 fi
 
 message=$1
+gitRepository="git@github.com:AplexOS/LoveLife"
 
-# commit to repository
-git add . && git commit -m "$message"
-
-# # push to github
-# gitRepository="git@github.com:AplexOS/LoveLife"
-# git pull $gitRepository
-# git push $gitRepository
+# commit to repository and push to github
+git add . && git commit -m "$message" && git pull "$gitRepository" && git push "$gitRepository"
