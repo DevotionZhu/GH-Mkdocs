@@ -4,3 +4,5 @@
 
 ## 目录
 
+* [0002PhotoShop](source/0001Photoshop.md)
+* [0001Vim 文本编辑器](source/0002Vim.md)
