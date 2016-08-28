@@ -4,5 +4,6 @@
 
 ## 目录
 
-* [0002PhotoShop](source/0001Photoshop.md)
-* [0001Vim 文本编辑器](source/0002Vim.md)
+* [0003 Markdown 标记语言](source/0003Markdown.md)
+* [0002 Photoshop 图片处理](source/0002Photoshop.md)
+* [0001 Vim 文本编辑器](source/0001Vim.md)
