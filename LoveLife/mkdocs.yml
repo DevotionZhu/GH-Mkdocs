@@ -1,5 +1,3 @@
 site_name: LoveLife
 site_author: zengjf
-theme: readthedocs
-markdown_extensions:
-    - smarty
+
