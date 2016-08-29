@@ -6,9 +6,14 @@
 * [软件分析](#user-content-软件分析)
 
 ## 硬件分析
+
+* [0001 硬件设计从哪里开始](hardware/0001WheretoStartForHardware.md)
+
 [ [页 首] ][0] [下一个] ][2] [ [页 尾] ][5]
 
 ## 软件分析
+
+* [0001 软件设计从哪里开始](software/0001WheretoStartForSoftware.md)
 
 [ [页 首] ][0] [ [前一个] ][1] [ [页 尾] ][5]
 

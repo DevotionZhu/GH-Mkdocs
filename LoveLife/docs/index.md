@@ -36,6 +36,7 @@
     zengjf@zengjf:~/LoveLife$ tree -L 4
     .
     ├── autopush.sh
+    ├── copyright.md
     ├── LoveLife
     │   ├── docs
     │   │   ├── copyright.md
@@ -84,10 +85,10 @@
 [github]:     https://github.com/AplexOS
 [aplexos]:    https://www.aplexos.com
 
-[referrence]: LoveLife/docs/referrence/index.md
-[work]:       LoveLife/docs/work/index.md
-[story]:      LoveLife/docs/story/index.md
-[tool]:       LoveLife/docs/tool/index.md
-[copyright]:  LoveLife/docs/copyright.md
+[referrence]: referrence/index.md
+[work]:       work/index.md
+[story]:      story/index.md
+[tool]:       tool/index.md
+[copyright]:  copyright.md
 
 
