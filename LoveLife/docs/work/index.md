@@ -9,16 +9,16 @@
 
 * [0001 硬件设计从哪里开始](hardware/0001WheretoStartForHardware.md)
 
-[ [页 首] ][0] [下一个] ][2] [ [页 尾] ][5]
+<center>[ [页 首] ][0] [ [下一个] ][2] [ [页 尾] ][3]</center>
 
 ## 软件分析
 
 * [0001 软件设计从哪里开始](software/0001WheretoStartForSoftware.md)
 
-[ [页 首] ][0] [ [前一个] ][1] [ [页 尾] ][5]
+<center>[ [页 首] ][0] [ [前一个] ][1] [ [页 尾] ][3]</center>
 
 ## 版权
-[ [页 首] ][0] [ [前一个] ][1] 
+<center>[ [页 首] ][0] [ [前一个] ][2] </center>
 
 [0]: #user-content-工作内容
 [1]: #user-content-硬件分析
