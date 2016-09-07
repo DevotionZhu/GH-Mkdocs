@@ -1,4 +1,5 @@
 # 简述
+<center>[ [主页] ][mainpage]</center>
 
 每个人都有自己的故事，故事好点的记录在史书中，故事不好的也就是无声无息的消失了，也许我们很多人都想做一些惊天动地的故事，但是现实永远就长这个死样，他不会让每个人都做到那些他们想做到的。
 
@@ -13,4 +14,4 @@
 * [0002 什么是思考](source/0002AboutThinking.md)
 * [0001 为什么喜欢打篮球](source/0001WhyPlayBasketball.md)
 
-[mainpage]: ../../../README.md
+[mainpage]: ../index.md
